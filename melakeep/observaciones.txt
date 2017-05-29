@@ -1,0 +1,2 @@
+Notas:
+1. Puedes borrar todos los .component.spec.ts no hacen falta.
